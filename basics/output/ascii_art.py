@@ -1,5 +1,14 @@
 #hello beep
 print("##########")
-print("#\t\t\t\t\t\t\t\t#")
-print("#\t\t\t\t\t\t\t\t#")
+print("#  o  o  #")
+print("#  ----  #")
 print("##########")
+
+
+# Display an ASCII art robot using a long string
+print(""" 
+##########
+#  o  o  #
+#  ----  #
+##########
+""")
